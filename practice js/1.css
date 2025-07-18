@@ -1,0 +1,27 @@
+/*.heading{
+    color: aqua;
+    background-color:purple;
+}
+body{
+    background-color: green;
+}
+
+div{
+    height: 100px;
+    width: 100px;
+    background-color: aquamarine;
+
+    border: 1px solid black;
+
+}*/
+
+.dark{
+    background-color: black;
+    color: aliceblue;
+
+}
+
+.light{
+    background-color: aliceblue;
+    color: black ;
+}
