@@ -3,12 +3,12 @@
 // Map is a collection of key-value pairs
 // 
 
-let data= new Map(
+let data = new Map(
     [
         ['name', 'Raj'],
         ['age', 20],
         ['single', true],
-        [false,'mingle'],
+        [false, 'mingle'],
 
     ]);
 //data.clear(); //clear all entries in map
