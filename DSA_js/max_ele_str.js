@@ -4,7 +4,7 @@ let strobj = {};
 
 for (let i = 0; i < str.length; i++) {
     let key = str[i];
-    if (!strobj[key]) {
+    if (!strobj[key]) {//if donesn't exist key in str then its value is 0
         strobj[key] = 0;
     }
     strobj[key]++;

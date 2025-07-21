@@ -2,7 +2,7 @@
 //1 length same
 //2 start and end same
 //3 start+1 and end-1 same
-
+//(123454321)
 
 let str="level";//case sensitive
 let start=0;
@@ -14,7 +14,6 @@ function palindrom(str){
         }
         start++;
         end--;
-    
     }
     return true;
 }
