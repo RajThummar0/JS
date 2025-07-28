@@ -25,4 +25,7 @@ list.appendNode(400);
 list.appendNode(500);
 list.appendNode(600);
 
+
+
+
 console.log(list);
